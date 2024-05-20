@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercentageSpinner", "PercentageSpinner\PercentageSpinner.csproj", "{0E820CCF-372F-4F9A-94FF-ED62B9BBEAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E820CCF-372F-4F9A-94FF-ED62B9BBEAF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E820CCF-372F-4F9A-94FF-ED62B9BBEAF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E820CCF-372F-4F9A-94FF-ED62B9BBEAF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E820CCF-372F-4F9A-94FF-ED62B9BBEAF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA5D11B-1211-473A-AF41-19F832C7E403}
+	EndGlobalSection
+EndGlobal
